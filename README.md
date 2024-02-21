@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![logo](https://github.com/niraj00122/niraj00122/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Niraj Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
